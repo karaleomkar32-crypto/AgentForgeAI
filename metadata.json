@@ -1,0 +1,6 @@
+{
+  "name": "AgentForge AI",
+  "description": "Build, deploy, discover, and monetize custom AI Agents. Powered by Google Gemini and Cardano/Masumi architectures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
